@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.container{
+    margin: 0;
+    background-color:#FFBF86;
+    text-align: center;
+    position: relative;
+    padding-top: 150px;
+    height: 100vh;
+    line-height: 2;
+   
+}
+a{
+    color: #FF8316;
+    margin: 0 40px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 100;
+    font-size: 5.625rem;
+    padding:5px 0;
+    color: #FF8316;
+   
+}
+h2{
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #FF8316;
+}
+h3{
+    font-family: 'Encode Sans', sans-serif;
+   
+}
+hr{
+    height: 0px;
+    border-style: none;
+    border-top: dotted ;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+p{
+    color: #40514E;
+    font-family: 'Encode Sans', sans-serif;
+    font-weight: 800;
+}
+.main-subheading{
+    font-weight: normal;
+}
+
+.mountain{
+    position: relative;
+    /* top: 50px; */
+    height: 50%;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top:50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+    bottom: 500px;
+
+}
+
+.middle-container{
+    /* position: relative; */
+    text-align: center;
+    background-color:#C2F784;
+   
+}
+
+.dp{
+    height: 300px;
+    width: 300px;
+    /* position: relative;
+    left: 40%; */
+}
+iframe{
+    width: 25%;
+    height: 30%;
+}
+.first-img{
+    float: left;
+}
+.second-img{
+    float: right;
+}
+.skill-row{
+    width: 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+}
+.bottom-container{
+    text-align: center;
+    background-color:#FFBF86;
+}
+
+.BUTTON_ROZ {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 4px;
+    line-height: 4px;
+    color: #99C624;
+    font-family: Verdana;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 15px;
+    background-color: #FF8316;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+ }
+ 
+ .BUTTON_ROZ:hover {
+    border: solid #000000 1px;
+    background: #FF8316;
+    background-image: -webkit-linear-gradient(top, #FF8316, #E17425);
+    background-image: -moz-linear-gradient(top, #FF8316, #E17425);
+    background-image: -ms-linear-gradient(top, #FF8316, #E17425);
+    background-image: -o-linear-gradient(top, #FF8316, #E17425);
+    background-image: -webkit-gradient(to bottom, #FF8316, #E17425);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ 
