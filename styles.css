@@ -100,7 +100,7 @@ iframe{
 }
 .skill-row{
     width: 50%;
-   margin: 100px auto;
+   margin: 50px auto;
    text-align: left;
    line-height: 2;
    
@@ -145,3 +145,10 @@ iframe{
     text-decoration: none;
  }
  
+ .intro-message{
+     margin-bottom: 60px;
+ }
+ .contact-message{
+     width: 40%;
+     margin: 40px auto 40px;
+ }
